@@ -33,8 +33,8 @@ Bike Sharing dataset - 'day.csv' is used for analysis
 
 ## Approach:
 
-Step 1: Importing Libraries
-Step 2: Reading and Understanding the Data
+- Step 1: Importing Libraries
+- Step 2: Reading and Understanding the Data
 Step 3: Cleaning Data
 Step 4: Visualising the Data
 Step 5: Data Preparation
