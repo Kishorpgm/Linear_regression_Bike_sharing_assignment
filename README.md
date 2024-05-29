@@ -35,15 +35,15 @@ Bike Sharing dataset - 'day.csv' is used for analysis
 
 - Step 1: Importing Libraries
 - Step 2: Reading and Understanding the Data
-Step 3: Cleaning Data
-Step 4: Visualising the Data
-Step 5: Data Preparation
-Step 6: Splitting the Data into Training and Testing Sets
-Step 7: Building a linear model using RFE and Automated approach
-Step 8: Building model
-Step 8: Making Predictions Using the Final Model
-Step 9: Model Evaluation
-Step 10: Conclusion
+- Step 3: Cleaning Data
+- Step 4: Visualising the Data
+- Step 5: Data Preparation
+- Step 6: Splitting the Data into Training and Testing Sets
+- Step 7: Building a linear model using RFE and Automated approach
+- Step 8: Building model
+- Step 8: Making Predictions Using the Final Model
+- Step 9: Model Evaluation
+- Step 10: Conclusion
 
 ## Conclusions
 Developed a model to find the variables which are significant to the demand for shared bikes with the available independent variables.
